@@ -1,0 +1,23 @@
+div {
+	height: 100px;
+	width: 200px;
+	border: 1px soild #000;
+	border-radius: 10px;
+	/*display: inline-block;*/
+	position: fixed;
+	z-index: -10;
+}
+
+#red {
+	background-color: #ff0000;
+}
+
+#blue {
+	background-color: #0000ff;
+	left: 100px;
+}
+
+#green {
+	background-color: #00ff00;
+	left: 200px;
+}

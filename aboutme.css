@@ -1,0 +1,122 @@
+/** {
+	border: 2px solid lightgreen;
+}*/
+
+p {
+	color: darkorange; 
+	font-size: 20px;
+}
+
+div p {
+	color: slateblue;
+}
+
+p span {
+	font-size: 10px;
+}
+
+p.location {
+	color: mediumpurple;
+	font-size: 30px;
+	font-family: 'Shadows Into Light', cursive; 
+}
+
+#ga {
+	background-color: lavender;
+	color: tomato;
+	text-align: center; 
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: 600;
+}
+
+a:visited {
+	color: turquoise;
+}
+
+ul {
+	list-style: open-circle;
+}
+
+li:first-child {
+	color: tomato;
+}
+li:last-child {
+	color: cornflowerblue;
+}
+h1::first-letter {
+	font-size: 80px;
+	color: yellow;
+}
+
+body {
+	background-image: url(http://www.planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg);
+	background-size: cover;
+}
+
+div {
+	background-color: rgba(255, 255, 255, .5);
+}
+
+div.font-example {
+	font-size: 16px;
+}
+
+.font-example p {
+	font-size: inherit;
+}
+
+.font-example .plus-1 {
+	font-size: 1.5em;
+}
+
+.font-example .plus-2 {
+	font-size: 2em;
+}
+
+h1 {
+	font-family: Georgia, Times New Roman, serif;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	text-align: center;
+}
+
+.borders {
+	height: 200px;
+	width: 200px;
+	background-color: #fff; 
+	border: 5px solid violet;
+/*	border-top
+	border-bottom: 
+	border-width: 5px;
+	border-style: solid;
+	border-color: violet;*/
+	border-radius: 50%;
+	text-align: center;
+	padding-top: 50px;
+	margin: 0 auto 20px auto;
+	box-sizing: border-box;
+}
+
+/*img {
+	width: 50%;
+	max-width: 800px;
+
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
